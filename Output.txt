@@ -1,0 +1,21 @@
+Value : /This is a comment 
+ , Type: Keyword , Description: Produces a comment
+Value : int , Type: Keyword , Description: Defining a Integer
+Value : x , Type: ID
+Value : = , Type: Assignemnt
+Value : 22 , Type : Integer
+Value : - , Type: Operator
+Value : 44 , Type : Integer
+Value : . , Type: EndOfStatement
+Value : string , Type: Keyword , Description: Defining a String
+Value : y , Type: ID
+Value : = , Type: Assignemnt
+Value : "Hi there" , Type: String
+Value : . , Type: EndOfStatement
+Value : y , Type: ID
+Value : = , Type: Assignemnt
+Value : "See you later" , Type: String
+Value : . , Type: EndOfStatement
+Value : Print , Type: Keyword , Description: Printing in the console
+Value : "Hi" , Type: String
+Value : . , Type: EndOfStatement

@@ -1,0 +1,6 @@
+/This is a comment 
+int x = 22 - 44 .
+string y = "Hi there" .
+y = "See you later" .
+
+Print "Hi" .
